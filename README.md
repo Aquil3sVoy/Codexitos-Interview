@@ -1,3 +1,10 @@
+## Interview Instructions
+- Create a Github if you don't have one already.
+- Have [NodeJs](https://nodejs.org/en/) installed.
+- Have Git configured in your local machine.
+- Fork this repository in your Github.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
